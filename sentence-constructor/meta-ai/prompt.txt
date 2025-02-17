@@ -13,4 +13,5 @@ to figures this out the correct practicles to use
 - provide words in their dictionary form, student 
 need to figure out the conjugation and tenses 
 - provide a possible sentence structure
+- the table of vocabulary should only have english romaji and japanese
 input : Bears at the door, did you leave the garbage out  ?
